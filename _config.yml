@@ -13,8 +13,8 @@ title_separator          : "-"
 name                     : &name "Zekai Wu"
 description              : &description "personal description"
 url                      : https://mingle-2012.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/profile"
+baseurl                  : "/profile" # the subpath of your site, e.g. "/blog"
+repository               : "mingle-2012/profile" # the GitHub repository for your site
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
